@@ -1,0 +1,28 @@
+PanGeT
+
+please install the following packages before running the PanGeT program.
+
+1) BLAST
+2) Perl (only for windows)
+3) LaTeX
+
+
+Download Links
+
+Blast
+
+ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.2.24/
+
+Perl (only for windows)
+
+https://www.perl.org/get.html
+
+Note: Perl is preinstalled in Linux and Mac operating systems. 
+
+LaTeX
+
+https://www.latex-project.org/get/
+
+
+
+
